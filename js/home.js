@@ -5,6 +5,9 @@
  * step-2: get money to be added to the account balance
  * get the pin number
  * step-3: verify the pin number
+ * step-4: get the current balance
+ * step-5: add addMoneyInput with balance
+ * step-6: update the balance in the UI/DOM
  */
 
 // step-1: add an event handler to the add money button inside the form
